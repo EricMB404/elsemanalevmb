@@ -1,0 +1,18 @@
+semanal academico:
+
+Lunes: laboratorio informatica II de 12:00pm a 03:00pm, estudiar durante dos horas depues de clase
+
+Martes: Clase de ingles de 06:00 am a 08:00 am, luego a las 10:00 am hasta los 12:00 del medio dia tengo clase de algebra lineal
+
+Miercoles: el dia empieza con clase teorica de informatica II de 08:00am a 10:00am, luego desde las 04:00pm hasta las 06:00pm clase de calculo diferencial
+
+Jueves: Clase de ingles de 06:00 am a 08:00 am, luego a las 10:00 am hasta los 12:00 del medio dia tengo clase de algebra lineal
+
+Viernes: el dia empieza con clase teorica de informatica II de 08:00am a 10:00am, luego desde las 04:00pm hasta las 06:00pm clase de calculo diferencial
+
+Sabado: estudiar de dos a 3 horas detalles importantes durante las clases de la semana.
+
+ESTOS DATOS NO CAMBIAN DURANTE EL TIEMPO, NI HORAS DE ESTUDIO Y DENTRO DE LA FECHA NO SE HAN DADO PARCIALES
+
+
+
